@@ -16,6 +16,7 @@
   </a>
 </div>
 
+<br />
 <hr />
 
 ### 🚀 About Me
@@ -24,11 +25,17 @@ I am a driven **Junior Developer** finishing my degree and passionate about serv
 
 - 🔭 I’m currently building **Backend projects with NestJS & MariaDB**.
 - 🌱 I’m constantly learning about **Clean Architecture and Docker**.
-- ⚾ Fun fact: Big fan of **Tigres de Aragua** 🐯 and retro gaming (MVP Baseball 2005).
+- ⚾ Fun fact: Big fan of **Tigres de Aragua** 🐯 and retro gaming (Pro Evolution Soccer 2016).
 
-<hr /> ### 🛠️ My Tech Stack
+<br />
+<hr />
+<br />
+
+### 🛠️ My Tech Stack
 
 <div align="center">
+
+  <br />
 
   **Backend Core & Languages**
   <br />
@@ -61,35 +68,34 @@ I am a driven **Junior Developer** finishing my degree and passionate about serv
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 
+  <br />
+
 </div>
 
 <br />
-
 <hr />
 
 ### 🏆 GitHub Trophies
+<br />
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joseph-dd&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=joseph-dd&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
 </div>
 
+<br />
 <hr />
 
 ### 📊 Coding Stats
 
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=joseph-dd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Joseph's Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-dd&theme=tokyonight&hide_border=true&background=0D1117" alt="Joseph's Streak" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-dd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joseph-dd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Joseph's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-dd&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="Joseph's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-dd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
+</p>
 
 <hr />
 
